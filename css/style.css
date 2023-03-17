@@ -19,3 +19,7 @@
     width: 100%;
     height: 10px;
 }
+.tabelaremedios{
+    display: inline-block; /* OCUPA O ESPAÇO DE ACORDO COM O TAMANHO DA INFORMAÇÃO */
+    
+}
